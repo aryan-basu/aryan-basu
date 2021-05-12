@@ -1,8 +1,14 @@
+
+![](https://visitor-badge.laobi.icu/badge?page_id=aryan-basu.aryan-basu)
+  
+
+[![Github](https://img.shields.io/github/followers/aryan-basu?label=Follow&style=social)](https://github.com/aryan-basu)
+
+## My Personal Information :
 - 👋 Hi, I’m @aryan-basu
 - 👀 I’m interested in ...web development,ML,Android devlopment
 - 🌱 I’m currently learning ...ML
 - 💞️ I’m looking to collaborate on ...open source
-- 📫 You to reach me ...through  linkedin => https://www.linkedin.com/in/aryan-basu-030720b6/
 
 <!---
 aryan-basu/aryan-basu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,10 +36,6 @@ You can click the Preview link to take a look at your changes.
   
 </p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=aryan-basu.aryan-basu)
-  
-
-[![Github](https://img.shields.io/github/followers/aryan-basu?label=Follow&style=social)](https://github.com/aryan-basu)
 
 ## 🏆 My Github Stats :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan-basu&show_icons=true&theme=tokyonight)
