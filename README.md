@@ -32,8 +32,9 @@ You can click the Preview link to take a look at your changes.
     <img src="https://camo.githubusercontent.com/18650ae2c436e3243fa8f87e77d5bc883bf5e8e67e1eb042e05cf5359102f9f5/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f696d616765732f6c6f676f2d68657861676f6e2d636172642e706e67" alt="node" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="node" height="40" style="vertical-align:top; margin:4px">
    <img src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png" alt="node" height="40" style="vertical-align:top; margin:4px">
- 
-  
+ <img src="https://raw.githubusercontent.com/amarpsp10/amarpsp10/main/assests/icons/jsx.png" alt="node" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
 </p>
 
 
